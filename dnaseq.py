@@ -39,7 +39,8 @@ if __name__ == "__main__":
     print("Scanning Patient_01 Sample A...")
     test_sample_A = "ATCGATCGATCG"
     result_A = scan_for_mutations(test_sample_A, db["Patient_01"])
-    print(result_A)  # Output: Success
+    print(result_A)  
+    # Output: Success
     
     print("\n-------------------------\n")
     
@@ -47,4 +48,5 @@ if __name__ == "__main__":
     print("Scanning Patient_01 Sample B...")
     test_sample_B = "ATTTATTTATCG"  # Changed characters at index 1, 2, 5, 6
     result_B = scan_for_mutations(test_sample_B, db["Patient_01"])
-    print(result_B)  # Output: Alert with positions
+    print(result_B)  
+    # Output: Alert with positions
