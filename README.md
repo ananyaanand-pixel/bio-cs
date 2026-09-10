@@ -10,7 +10,7 @@ This repository tracks my journey of merging biology and coding using Python.
 
 As this repository grows, projects will be organized into dedicated modules:
 
-*   **`dnaseq.py`**: 
+*   **`dnasequence.py`**: 
     * *Description:* A custom Python program written to parse, manipulate, and analyze raw DNA nucleotide sequences.
     * *Status:* Completed
 *   **📁 02_population_models/**
