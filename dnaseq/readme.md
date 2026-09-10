@@ -26,4 +26,4 @@ To execute the test suite directly from your local terminal:
 
 bash 
 
-python dnaseq.py
+python dnasequence.py
