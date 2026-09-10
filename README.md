@@ -47,7 +47,7 @@ To run any of the simulation or processing scripts locally, ensure you have Pyth
 
 3. **Run a Script (Example):**
    ```bash
-   python dnaseq.py
+   python dnasequence.py
    ```
 
 ---
