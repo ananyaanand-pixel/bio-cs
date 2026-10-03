@@ -27,3 +27,7 @@ To execute the test suite directly from your local terminal:
 bash 
 
 python dnasequence.py
+
+
+
+
