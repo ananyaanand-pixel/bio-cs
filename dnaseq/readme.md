@@ -22,12 +22,13 @@ print(result_B)
 
 #Output: ALERT: High mutation rate detected (4 flaws at positions [1, 2, 5, 6]).
 
+----------
 To execute the test suite directly from your local terminal:
 
 bash 
 
 python dnasequence.py
 
-
+-----------
 
 
