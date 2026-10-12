@@ -31,7 +31,7 @@ def scan_for_mutations(sample_dna, reference_dna):
     
     return "SUCCESS: Data integrity verified. DNA sequence is clean."
 
-# --- Simulating the Execution ---
+
 if __name__ == "__main__":
     db = load_genetic_database()
     
@@ -51,4 +51,9 @@ if __name__ == "__main__":
     result_B = scan_for_mutations(test_sample_B, db["Patient_01"])
     print(result_B)  
     # Output: Alert with positions
+
+
+
+
+
 
