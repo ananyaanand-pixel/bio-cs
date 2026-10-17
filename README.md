@@ -4,7 +4,7 @@ Welcome to my interdisciplinary playground! Having a background as a Physics, Ch
 
 This repository tracks my journey of merging biology and coding using Python.
 
----
+------
 
 ## 📂 Project Directory
 
@@ -20,7 +20,7 @@ As this repository grows, projects will be organized into dedicated modules:
     * *Description:* Python scripts handling medical or biological datasets (CSV/JSON parsing) for analytics.
     * *Status:* Planned
 
----
+------
 
 ## 🔬 Core Focus Areas
 
@@ -29,7 +29,7 @@ Through this repository, I am teaching myself how to apply Python to biological 
 2. **Data Visualisation:** Plotting growth curves, gene expression trends, and chemical compounds using Python packages.
 3. **Algorithmic Logic:** Finding patterns, motifs, or mutations inside simulated genetic datasets.
 
----
+------
 
 ## 🛠️ General Instructions
 
@@ -50,7 +50,7 @@ To run any of the simulation or processing scripts locally, ensure you have Pyth
    python dnasequence.py
    ```
 
----
+------
 
 ## 🎯 Learning & Integration Milestones
 - [x] Establish the repository layout and intersection goals
@@ -58,4 +58,4 @@ To run any of the simulation or processing scripts locally, ensure you have Pyth
 - [ ] Implement open-source biological toolkits (like `Biopython`)
 - [ ] Apply secure data principles to healthcare/biological datasets
 
----
+------
